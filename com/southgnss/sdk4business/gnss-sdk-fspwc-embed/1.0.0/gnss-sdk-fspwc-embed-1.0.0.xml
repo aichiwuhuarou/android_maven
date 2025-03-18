@@ -6,7 +6,7 @@
     
     <groupId>com.southgnss.sdk4business</groupId>
     <artifactId>gnss-sdk-fspwc-embed</artifactId>
-    <version>1.5.0-20230804.095633-21</version>
+    <version>1.0.0</version>
     <packaging>aar</packaging>
     
     <name>GNSS SDK FSPWC Embed</name>
